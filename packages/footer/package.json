@@ -1,6 +1,6 @@
 {
   "name": "footer",
-  "version": "2025.174.0",
+  "version": "independent",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
